@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pivotal-trail-350004",
+  "private_key_id": "4ee306e669acdaab2ff581f63913cdd8ec0c86ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNOsXXSlb0WGnG\nJ3/tZ3kzAHuqQurqy0U5yI1zFoKb0AEDzhzRsDKC8B2BB9xls1WHUUYxn/zAvV0i\ntJ0Lk+g7x6YE6Z8RU+r7QG2PEPBWDVRyhF8sklrhTF+3PoZrXexHyybUecXw5wrH\nvz7ru0iU7Z+JLej9D673oYKfYZca9T2nVLHA0F4PxO8siR9hvo/nWjqCE4ZTtkeH\nLoSQuCmt6hghVsIp92Orck+tPe9Vu6jZFXn2SW3clZrNes+wzh11FVZuKIoseohJ\n5c9+hrEmcSY3IZsiXcbtGnpeJCFxuuVOxVNJla2rPsKG8Xcy7gvVy7MIMfSBNLxv\nIsrFmxE1AgMBAAECggEAESlDJju3pgqx8Zls95pJnAuuy5p5OrVRA8IdneGPKLNN\n2mvE+ih3Lil2S3YE+9Yb+/WTs+OdHDWEJmT0UDsH1jPdfJdX2fg/887mj7+KsU9q\nX9cU1E0lX1CRHRQT48IrV1zeptwgmAKMjWO/Fwbb92QgDTWzFVzXNIAjbutsr3AV\nmzELPMzeIjVwG+7cCuDIReDkwOMQPeuyk05NrBHSj4kxyAZwb6ygvF99RSVDcJQj\nbQtuKn1IFGrr+cqkOQGPqZVX8vlWvi/6MFH94UctMApIGhUPFgAHXllXIuXACJen\nYzKwzbClQUxUymtzspB7tvMIEX3By300ZhjOVp8wAwKBgQD5RLr4r1kY2O9BG4gD\nrkTu3JHWQ4srL0V9DnlWLEHrjb4hyCahMFc2Z7NXqr0W8Yxn0+UrZtTvE8ZEDwgK\nSR3dlYqAXLFSZ/bhczQaCXV1edw3eSsW2HNfzPUzGNVb0D+xmDlnPMmhExfbGZvv\nRhAuhuuz7Mpa9LiFNQCol7NR5wKBgQDSxZaIvAF0BJkrq6ryD2KXkTe2Yqaq1kaF\n1ULthUFbQCipdG9tjqfXk2H2Zk5V9TpFPUSGL1AALDGVSquTFlao8Q1Of1bD0JBf\nGHV8OFwl8yj+U9ZGu4y1an8iHz+7vBtyfOfe29/ZxbGp3KxT5Jr8/7Tu6W3QoOgx\nP8quKTGYgwKBgQDnKvBitOth+b1Ymhm3oCRZiMDO/nDQKdS9t3CblAvGUftkBOSe\nU+BtmhpeUP9via92krJTX9hVp/cVIwOH1msWFhsOE+h2zefNCTPmeaMuwUaTQ5HM\nbAwDamZzbrJfpW+MWenSbjNnZ/eVv9g3PLjBDWsFv7GiTJXbI15q+9TXPQKBgQDM\nGGLlMtBhbNZ5UDkvPjClPgxpwutLAES38cNmRqP73YvCUypXN01V1bSFqZlvaRAs\n3eAN46CfGixFOVIdEwOFgi31dh8pbDtwqjmRuO2aHfTzGXGjepcNUPucqg/IFaWq\nXkMVLWp88Q9RwYrpjbN7C41Dz6vz2uwcTH5R2TfaSwKBgQDbxv7+DQ6x35ORhGp4\nR1040Uk2At34m3AsabiQymB5P5bKf6A5+nG3KM3bXMvjU2fC+bEk7RI4WQBwxT//\njQ11bEQPbmMXKQYC5GGebQoPA9vYD1eT1sFi+bbX4PPxFpVX7dUXdYNAtd62/jvR\nbG0yH9Bk0kqwlZ+IAZFau5WmXQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ytca3@pivotal-trail-350004.iam.gserviceaccount.com",
+  "client_id": "115058333575308504477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ytca3%40pivotal-trail-350004.iam.gserviceaccount.com"
+}
